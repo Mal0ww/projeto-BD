@@ -1,2 +1,3 @@
 # projeto-BD
-Telas iniciais para o projeto de banco de dados
+
+modificação da ideia inicial e adição do banco
