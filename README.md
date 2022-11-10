@@ -15,8 +15,8 @@ escolher entre os vários módulos que vão desde aulas técnicas até teóricas
 instrumento. 
 
 ###### Tecnologias, FrameWorks e Linguagens:
--node.js
--MySQL WorkBench
--React.js
--HTML
--JavaScript
+- node.js
+- MySQL WorkBench
+- React.js
+- HTML
+- JavaScript
