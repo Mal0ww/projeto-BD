@@ -1,0 +1,18 @@
+.novoUsuario_container{
+    width: 450px;
+    background-color: #bbb6b6;
+    margin: 0 auto;
+    padding: 20px 15px;
+    border-radius: 7px;
+    margin-top: 100px;
+    margin-bottom: 90px;
+    box-shadow: 7px 7px #7b7b7b;
+}
+
+.novoUsuario_container h1{
+    margin-bottom: 0.5em;
+}
+
+.novoUsuario_container p{
+    color: #7b7b7b;
+}
