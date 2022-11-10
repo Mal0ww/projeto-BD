@@ -1,7 +1,7 @@
 # projeto-BD
 ## Michael "Mal0ww" Nascimento.
 
-###Introdução.
+######Introdução.
 Atualmente, uma grande dificuldade dos músicos em geral é encontrar conteúdos de
 forma organizada e de boa qualidade na internet. Por mais que exista uma enorme variedade de
 matérias, eles sempre são apresentados de forma diluída e extremamente resumida, ocasionando
@@ -14,7 +14,7 @@ Afim de resolver esses dois problemas, o projeto para a disciplina de Banco de d
 escolher entre os vários módulos que vão desde aulas técnicas até teóricas, separando por tipo e
 instrumento. 
 
-###Tecnologias, FrameWorks e Linguagens:
+######Tecnologias, FrameWorks e Linguagens:
 -node.js
 -MySQL WorkBench
 -React.js
