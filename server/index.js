@@ -32,14 +32,6 @@ app.post("/cadastro", (req, res) =>{
         console.log(err);
     })
 });
-/*app.get("/", (res, req) =>{
-    //const sql = "INSERT INTO usuario (cpf, nome_usuario, senha, primeiro_nome, sobrenome, email, data_nasci, cidade, uf) VALUES ('00000000008', 'user08', 'senha08', 'user', '08', 'email08@gmail.com','2000-01-04', 'Calango', 'SE');";
-    //const sql = "INSERT INTO usuario (cpf, nome_usuario, senha, primeiro_nome, sobrenome, email, data_nasci, cidade, uf) VALUES (?, ?, ?, ?, ?, ?,?, ?, ?);";
-    //const sql = "DELETE FROM usuario WHERE cpf = '00000000005';";
-    db.query(sql,(err, result) => {
-        console.log(err);
-    })
-});*/
 
 app.listen(3001, () => {
     console.log("O pai ta ON!");
