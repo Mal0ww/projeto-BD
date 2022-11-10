@@ -1,0 +1,56 @@
+.cadastro_container{
+    width: 450px;
+    height: px;
+    margin: 0 auto;
+    border-radius: 7px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    align-self: center;
+}
+
+.cadastro_container h4{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.cadastro_container hr{
+    margin-bottom: 0.5em;
+
+}
+
+.cadastro_container p{
+    color: #7b7b7b;
+}
+
+.cadastro_container form{
+    position: relative;
+    width: 380px;
+}
+.cadastro_container input{
+    width: 110%;
+    border: 2px solid #aaa;
+    margin: 8px 0px;
+    padding: 8px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.cadastro_container input::placeholder{
+    color: #7b7b7b;
+}
+
+.cadastro_container i{
+    height: 38px;
+    width: 40px;
+    background-color: #aaa;
+    position: absolute;
+    top: 8px;
+    padding: 10px 15px;
+    color: rgb(0, 0, 0);
+}
+
+.cadastro_container label{
+    margin-bottom: .6em;
+    font-weight: bold;
+}
+
